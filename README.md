@@ -1,6 +1,7 @@
 # mobile-web-data
 
-The presentation of the project:
+### ✨ The presentation of the project:
+
 ![anna-traylor_page-0001](https://github.com/javascript-queen/mobile-web-data/assets/90614620/d20abdee-f3e8-4d8c-97cc-8cae56eda7fc)
 ![anna-traylor_page-0002](https://github.com/javascript-queen/mobile-web-data/assets/90614620/6150adbd-ebc3-4687-9b2d-200d4e268751)
 ![anna-traylor_page-0003](https://github.com/javascript-queen/mobile-web-data/assets/90614620/324d717e-9688-4646-9004-505c0fefecf0)
